@@ -1,4 +1,4 @@
-## Predicting and Modeling Recovery Dynamics Post-Acute Kidney Injury: A Multi-Center Study
+# Predicting and Modeling Recovery Dynamics Post-Acute Kidney Injury: A Multi-Center Study
 
 ### Project Overview
 
