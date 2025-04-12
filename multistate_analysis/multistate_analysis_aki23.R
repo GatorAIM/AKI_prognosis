@@ -3,6 +3,7 @@
 ################################################################################
 
 ####  Step 1: Load and Preprocess Data 
+# Load libraries
 library('arrow')
 library('dplyr')
 library('tidyr')
