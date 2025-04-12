@@ -7,7 +7,6 @@
 library('arrow')
 library('dplyr')
 library('tidyr')
-library('grid')
 library('survival')
 library('stringr')
 library('ggplot2')
